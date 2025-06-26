@@ -1,9 +1,9 @@
 # Final-Project-Deep-Learning
 LINK DEPLOYMENT
 
-Noise image generator :
+Noise image generator : https://huggingface.co/spaces/naufalhm/noise-image-generator
 
-Denoising Autoencoder + Image Classifier :
+Denoising Autoencoder + Image Classifier : https://huggingface.co/spaces/naufalhm/denoising-autoencoder-image-classifier
 
 # 🔍 Sistem Klasifikasi Tomat Menggunakan DAE dan CNN
 
