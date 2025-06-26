@@ -11,6 +11,17 @@ Denoising Autoencoder + Image Classifier : https://huggingface.co/spaces/naufalh
 
 Sistem ini bekerja dengan cara membersihkan gambar yang terkena noise menggunakan **DAE**, kemudian hasil gambar bersih tersebut diklasifikasikan menggunakan **CNN**. Tujuannya adalah meningkatkan akurasi klasifikasi dengan memastikan input yang lebih bersih dan jelas.
 
+📦 Deskripsi Singkat Dataset
+Dataset ini berisi gambar buah tomat yang dikategorikan ke dalam 3 kelas utama:
+- Reject → Tomat yang rusak atau tidak layak konsumsi
+- Ripe → Tomat matang dan segar
+- Unripe → Tomat mentah atau belum matang
+
+📸 Detail Gambar
+- Format: JPEG/PNG
+- Ukuran gambar bervariasi
+- Citra berwarna (RGB)
+
 ### 💡 Fitur Utama
 - Menambahkan berbagai jenis noise ke gambar (Gaussian, Salt & Pepper, dll)
 - Membersihkan gambar menggunakan Denoising Autoencoder (DAE)
